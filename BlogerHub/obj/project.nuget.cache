@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "l4ZZAo8slpOvteKTGl3re2w6TjznoFODgn/+5Nb4kadWmMDOo4XMryG8aVWdjHl5dvAZI96On3AC25CBwsiNIg==",
+  "success": true,
+  "projectFilePath": "/Users/mostafayoussef/Desktop/BlogerHub/BlogerHub/BlogerHub.csproj",
+  "expectedPackageFiles": [
+    "/Users/mostafayoussef/.nuget/packages/microsoft.aspnetcore.openapi/7.0.3/microsoft.aspnetcore.openapi.7.0.3.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "/Users/mostafayoussef/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.4.0/swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
