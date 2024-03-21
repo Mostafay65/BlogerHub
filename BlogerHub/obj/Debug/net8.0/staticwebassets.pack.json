@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/mostafayoussef/Desktop/BlogerHub/BlogerHub/wwwroot/Media/3678b7d7-6e58-4a4c-88c4-c54144c7f9bd_GJI_cveXoAABU3J.jpeg",
+      "PackagePath": "staticwebassets/Media/3678b7d7-6e58-4a4c-88c4-c54144c7f9bd_GJI_cveXoAABU3J.jpeg"
+    },
+    {
+      "Id": "/Users/mostafayoussef/Desktop/BlogerHub/BlogerHub/wwwroot/Media/452ba67d-6862-443c-867b-a29c0cdf3fb5_GJI_cveXoAABU3J.jpeg",
+      "PackagePath": "staticwebassets/Media/452ba67d-6862-443c-867b-a29c0cdf3fb5_GJI_cveXoAABU3J.jpeg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.BlogerHub.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.BlogerHub.props",
+      "PackagePath": "build\\BlogerHub.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.BlogerHub.props",
+      "PackagePath": "buildMultiTargeting\\BlogerHub.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.BlogerHub.props",
+      "PackagePath": "buildTransitive\\BlogerHub.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

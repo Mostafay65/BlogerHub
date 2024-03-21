@@ -10,8 +10,8 @@ public class BlogConfiguration :  IEntityTypeConfiguration<Blog>
     {
         builder.ToTable("Blogs");
         builder.HasKey(b => b.Id);
-        builder.Property(b => b.Title).HasMaxLength(50);
-        builder.Property(b => b.Content).HasMaxLength(500);
+        builder.Property(b => b.Title).HasMaxLength(100);
+        builder.Property(b => b.Content).HasMaxLength(5000);
         
         builder.HasOne(b => b.Author)
             .WithMany(u => u.Blogs)

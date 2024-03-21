@@ -5,7 +5,7 @@ namespace BlogerHub.Models;
 public class Comment
 {
     public int Id { get; set; }
-    [MaxLength(100)]
+    [MaxLength(500)]
     public string Content { get; set; }
     public string AuthorId { get; set; }
     public int BlogId { get; set; }
